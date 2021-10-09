@@ -1,0 +1,6 @@
+[client]
+database = py_polls
+user = root
+password = 
+host = localhost
+default-character-set = utf8
